@@ -1,0 +1,3 @@
+Anomalies in DBMS:
+
+https://beginnersbook.com/2015/05/normalization-in-dbms/
